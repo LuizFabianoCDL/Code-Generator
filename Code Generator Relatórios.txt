@@ -1,0 +1,3 @@
+Code-Generator Relatórios
+
+  Sou um iniciante na linguagem de programação Python, resolvi junto ao Gemini criar um script 
